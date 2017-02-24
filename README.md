@@ -3,7 +3,7 @@
 
 Reproduce country flags using python and pandas.
 
-Here's a small selection of flags that can be created with ``cluster-flag`` ([python code]([here](https://github.com/dashee87/cluster-flag/tree/master/example/six_classic_flags.py))
+Here's a small selection of flags that can be created with ``cluster-flag`` ([python code](https://github.com/dashee87/cluster-flag/blob/master/examples/six_classic_flags.py))
 
 ![png](examples/six_classic_flags.png)
 
@@ -220,7 +220,7 @@ plt.show()
 
 ### 3. Unsupervised Learning with Country Flags
 
-It's called ``cluster-flag``, as I thought flags could offer novel datasets to explore clustering. A huge range of datasets can be constructed through this package. Let's look at a few examples (the complete python code is [here](https://github.com/dashee87/cluster-flag/tree/master/example/kmeans_hc_dbscan.py)):
+It's called ``cluster-flag``, as I thought flags could offer novel datasets to explore clustering. A huge range of datasets can be constructed through this package. Let's look at a few examples (the complete python code is [here](https://github.com/dashee87/cluster-flag/blob/master/examples/kmeans_hc_dbscan.py)):
 
 
 ```python
